@@ -39,15 +39,15 @@ It tracks companies, roles, statuses, interviews, follow-ups, and skills while s
 - Views
 - Filtering by business logic
 
-## Example Insights
-The included queries allow analysis such as:
-- total applications by status
-- top companies by application volume
-- interview performance summary
-- roles that require SQL
-- follow-ups that still need attention
-- highest salary active opportunity
-- monthly application activity
+## Business Questions Answered
+
+This database supports answering real-world analytical questions such as:
+
+- Which companies receive the most applications?
+- What percentage of applications reach interview stage?
+- Which roles require SQL skills?
+- What is the average expected salary by role?
+
 
 ## Files
 - `job_application_tracker.sql` — full database schema, seed data, and analysis queries
