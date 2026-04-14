@@ -58,6 +58,4 @@ This database supports answering real-world analytical questions such as:
 3. Execute the included queries section by section.
 4. Use the generated tables and view for reporting.
 
-## Why This Project Is Strong
-This project goes beyond a basic academic database by modeling a practical workflow with business-style reporting.  
-It demonstrates both database design and analysis skills relevant to internship and entry-level data roles.
+
