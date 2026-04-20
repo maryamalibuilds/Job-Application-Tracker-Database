@@ -60,7 +60,7 @@ The goal is to move beyond simple CRUD operations and demonstrate real analytica
 ### 1. Application Overview
 A complete view of all applications including company, role, status, source, and salary expectations.
 
-![Application Overview](./application_summary_view.png)
+![Application Overview](./application_summary_view123.png)
 
 ---
 
